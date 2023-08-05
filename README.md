@@ -1,6 +1,6 @@
 # Dijkstras_Algorithm
 
-<p>In the following repository I explored dijkstra's algorithm and implemented it in java inside a grid. The grid contains a starting and goal position as well as any number of obstacles. The program efficiently calculates the shortest path from the given goal to a given starting position. Since the grid has cell-to-cell connectivity and equals traversal costs, it has no weighted edges. Underneath are examples of how the search is visualized.</p>
+<p>In the following repository I explored dijkstra's algorithm and implemented it in java inside a grid. The grid contains a starting and goal position as well as any number of obstacles. The program efficiently calculates the shortest path from the given starting position to a given goal. Since the grid has cell-to-cell connectivity and equals traversal costs, it has no weighted edges. Underneath are examples of how the search is visualized.</p>
 <br>
 <p>S = staring position</p>
 <p>G = goal position</p>
